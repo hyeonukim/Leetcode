@@ -14,7 +14,6 @@ def answer(x):
         return True
     else:
         return False
-123
     
 if __name__ == "__main__":
     x = int(input("Please input a number\n"))
