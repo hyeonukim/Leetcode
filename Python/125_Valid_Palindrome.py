@@ -9,8 +9,6 @@ def answer(s):
     reverse = res[::-1]
 
     if res == reverse:
-        print(res)
-        print(reverse)
         return True
     return False
     
